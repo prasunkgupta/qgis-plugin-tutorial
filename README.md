@@ -2,9 +2,7 @@
 Building a plugin in QGIS 3.6 using Python
 
 # video
-[![LIVE DEMONSTRATION](http://img.youtube.com/vi/txxTWcgYEdY/0.jpg)](https://www.youtube.com/watch?v=txxTWcgYEdY)
-
-This link may not work after today (July 26, 2019). I will try and update this video link later.
+[![DEMONSTRATION](http://img.youtube.com/vi/z_QEi212DEQ/0.jpg)](https://www.youtube.com/watch?v=z_QEi212DEQ)
 
 # credits
 
